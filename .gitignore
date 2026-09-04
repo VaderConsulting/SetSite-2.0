@@ -1,0 +1,31 @@
+# Build / IDE
+bin/
+obj/
+.vs/
+*.suo
+*.user
+*.vbw
+*.scc
+*.vssscc
+*.vspscc
+*.exe
+*.dll
+*.ocx
+*.lib
+*.exp
+*.pdb
+*.log
+*.tmp
+*.bak
+
+# Secrets / credentials (never upload)
+*.pfx
+*.p12
+*.pem
+*.key
+.env
+
+# Redacted originals (see *.example files)
+Registry.frm
+Reg - Local/modvbworld.bas
+Reg - Local/frmRegDemo.frm
