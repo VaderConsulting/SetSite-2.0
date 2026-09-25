@@ -15,3 +15,24 @@ _Note: original OneDrive LastWriteTime values were wiped to 2026-08-27 by a zip 
 | `prjRegistry` (`Reg - Local/prjRegistry.vbp`) | VB6 | WinForms exe | Local registry demo helpers |
 | `PolDist` (`Reg - Remote/PolicyDistro.vbp`) | VB6 | WinForms exe | Remote policy distribution |
 | `PolDist` (`Reg - Remote/Getinfo/Getinfo.vbp`) | VB6 | WinForms exe | Remote registry/Getinfo helper |
+
+## How to open
+
+Open the `.vbp` in Visual Basic 6.0 IDE:
+- `Setsite2.vbp` (main Set Site UI)
+- `Mywizard.vbp` (Set Site Wizard template)
+- `Reg - Local/prjRegistry.vbp` (local registry demo)
+- `Reg - Remote/PolicyDistro.vbp` (remote policy distribution)
+- `Reg - Remote/Getinfo/Getinfo.vbp` (Getinfo helper)
+
+## Requirements
+
+- Visual Basic 6.0 IDE
+
+## Attribution and provenance
+
+Working copy from my Historical Dev folder `VB/Old/SetSite 2.0`.
+
+## License
+
+MIT © 2026 VaderConsulting for Dave Robinson's code. See `LICENSE`.
